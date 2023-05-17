@@ -12,7 +12,8 @@
 ## Estatisticas
 
 ![Tarsis GitHub stats](https://github-readme-stats.vercel.app/api?username=TarsisDev&show_icons=true&theme=dracula)
- ![Tarsis GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TarsisDev&show_icons=true&theme=dracula)
+![Tarsis GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TarsisDev&show_icons=true&theme=dracula)
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/TarsisDev&show_icons=true&theme=dracula)
 
 
