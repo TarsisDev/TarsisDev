@@ -1,15 +1,15 @@
-### Olá, bem vindo! Eu sou o Tarsis 🤓
+### Hello, welcome! I'm Tarsis 🤓
 
-## Sobre mim
+## About me
 
-  Atualmente curso Analise e Desenvolvimnento de sistemas na faculade "Estacio" e estou organizando e finalizando alguns projetos pessoais que espero poder compartilha-los aqui em breve.
+  I'm currently studying Systems Analysis and Development at "Estacio" college, and I'm organizing and finalizing some personal projects that I hope to share here soon.
 
-## Minhas Redes Sociais
+## My Social Media
 
 [![LinkedInk](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/t%C3%A1rsis)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ofc_tarsisnascimento)
 
-## Estatisticas
+## Statistics
 
 ![Tarsis GitHub stats](https://github-readme-stats.vercel.app/api?username=TarsisDev&show_icons=true&theme=dracula)
 ![Tarsis GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TarsisDev&show_icons=true&theme=dracula)
@@ -17,7 +17,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/TarsisDev&show_icons=true&theme=dracula)
 
 
-## Habilidades
+## Skills
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Tarsis-HTML" height="30" width="40" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
