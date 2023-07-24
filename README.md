@@ -27,4 +27,4 @@
 </div>
 
 ---
-<h3  align="center">💻 Veja alguns dos meus projetos ⬇️ </h3>
+<h3  align="center">💻 Check out some of my projects below ⬇️ </h3>
